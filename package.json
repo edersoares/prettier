@@ -1,0 +1,9 @@
+{
+  "name": "@dexjs/prettier",
+  "version": "0.1.0",
+  "description": "My default settings for Prettier",
+  "main": "index.json",
+  "repository": "git@github.com:edersoares/prettier.git",
+  "author": "Eder Soares <edersoares@me.com>",
+  "license": "MIT"
+}
